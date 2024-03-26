@@ -41,6 +41,11 @@ body {
     line-height: 1;
     border-radius: 5px;
   }
+  .search-button:hover{
+    cursor: pointer;
+    opacity: 0.3;
+    transition: ease-in-out;
+  }
   
   main {
     padding: 30px 0;
