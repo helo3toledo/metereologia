@@ -26,9 +26,9 @@ body {
     border: none;
     color: rgba(39, 33, 66, 0.4);
     font-size: 16px;
-    padding: 20px;
+    padding:  20px;
     width: 75%;
-    border-radius: 6px;
+    border-radius: 20px;
   }
   
   .search-button {
@@ -39,7 +39,7 @@ body {
     border: none;
     padding: 20px;
     line-height: 1;
-    border-radius: 5px;
+    border-radius: 10px;
   }
   .search-button:hover{
     cursor: pointer;
