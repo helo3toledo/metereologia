@@ -93,12 +93,25 @@ body {
     position: relative;
     top: -38px;
   }
-  
+
+.weatherForecast{
+
+        border-bottom: 1px solid #f9f7fe;
+        margin: 40px 0;
+        padding-bottom: 50px;
+        text-align: center;
+    
+}
+ 
+.container{
+  display: flex;
+}
+
   footer {
     border-top: 1px solid #f9f7fe;
     text-align: center;
     padding-top: 15px;
   
-    color: #2b235a;
+    color: rgba(39, 33, 66, 0.4);
   }
   
