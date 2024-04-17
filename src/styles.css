@@ -60,7 +60,7 @@ main {
   margin: 0;
   font-size: 38px;
   line-height: 48px;
-  color:#9a5bde;
+  color: #8c5dee;
 
 }
 
@@ -112,12 +112,14 @@ main {
 }
 
 .weather-forecast-icon {
-  font-size: 38px;
-  text-align: center;
-}
+  width: 88px;
+  height: 88px;
+  display: block;
+  margin: 0 auto;}
+
 .weather-forecast-temperatures {
   text-align: center;
-  color: #6631e9;
+  color:#6631e9;
   margin-top: 10px;
   display: flex;
   justify-content: center;
@@ -126,6 +128,7 @@ main {
 .weather-forecast-temperature {
   padding: 0 10px;
 }
+
 
 
 
