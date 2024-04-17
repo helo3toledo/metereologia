@@ -60,6 +60,8 @@ main {
   margin: 0;
   font-size: 38px;
   line-height: 48px;
+  color:#9a5bde;
+
 }
 
 .current-details {
@@ -70,7 +72,7 @@ main {
 }
 
 .current-details strong {
-  color: #f65282;
+  color: #6631e9;
 }
 
 .temperature-container {
@@ -87,6 +89,7 @@ main {
   line-height: 88px;
   font-weight: bold;
   color: #253949;
+
 }
 
 .weather-app-unit {
@@ -114,7 +117,7 @@ main {
 }
 .weather-forecast-temperatures {
   text-align: center;
-  color: #f65282;
+  color: #6631e9;
   margin-top: 10px;
   display: flex;
   justify-content: center;
